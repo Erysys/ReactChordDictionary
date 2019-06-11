@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(212, 210, 223);
+}
+
+.jumbotron {
+  margin-bottom: 0px;
+  background: linear-gradient(rgba(0, 0, 0, 0.75),rgba(17, 16, 19, 0.75));
+  color: rgb(235, 255, 235);
+  border-radius: 15px;
+  box-shadow: 0 7px 12px 2px rgba(0, 0, 0, 0.33) inset;
+  text-shadow: 0 0px 3px rgba(199, 255, 217, 0.5);
+}
+
+.header h1{
+  font-size: 3.75rem;
+  padding-top: 1.15rem;
+  padding-bottom: 1.15rem;
+}
+
+.header p{
+  font-size: 1.15rem;
+}
+
+.chord-display {
+  font-size: 2rem;
+}
+
+.chord-name {
+  font-size: 3rem;
+}
+
+.form-row{
+  font-size: 1.25rem;
+}
+
+.form-element {
+  display: inline;
+  padding-left: 1.5rem;
+}
+
+.form-element label{
+  padding-right: .35rem;
+}
